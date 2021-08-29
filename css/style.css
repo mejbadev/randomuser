@@ -1,0 +1,18 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 1px rgb(0 0 0 / 50%);
+    margin:auto;
+}
+body{
+    background-color: black;
+}
+.icon{
+    transition: all 1s;
+}
+.icon:hover{
+    color:springgreen;
+    margin-top: 20px;
+}
